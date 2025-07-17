@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como parte da obtenção de nota do Curso de Data Science Experience da Universidade Presbiteriana Mackenzie. O objetivo principal é aplicar técnicas de ciência de dados e aprendizado de máquina para prever o risco de insuficiência cardíaca com base em dados clínicos.
 
 ## 🎯 Informação Importate
-* Certifique-se que a branch esteja na `Master`
+* Certifique-se que a branch esteja na `Master`, a `Main` tem apresentado problemas
 
 ## 🎯 Objetivos do Projeto
 
