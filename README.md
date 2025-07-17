@@ -117,17 +117,6 @@ Para executar o pipeline completo de análise e modelagem:
     ```
     O script irá carregar os dados, pré-processá-los, realizar a análise exploratória (imprimindo resultados no console e gerando `matriz_correlacao.png`) e, finalmente, treinar e avaliar os modelos de Regressão Linear e Regressão Logística, exibindo os resultados no console.
 
-## 🤝 Contribuindo
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-* Fork o projeto.
-* Criar uma branch para sua funcionalidade (`git checkout -b feature/sua-feature`).
-* Fazer commit de suas mudanças (`git commit -m 'Adiciona nova funcionalidade'`).
-* Empurrar para a branch (`git push origin feature/sua-feature`).
-* Abrir um Pull Request.
-
-
 ---
 
-⭐ Projeto desenvolvido para a Universidade Presbiteriana Mackenzie.
+⭐ Projeto desenvolvido para conclusão de matéria na Universidade Presbiteriana Mackenzie.
