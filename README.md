@@ -10,6 +10,7 @@ Este projeto foi desenvolvido como parte da obtenção de nota do Curso de Data 
 - [`heart.csv`](./heart.csv): Base de dados utilizada para análise e modelagem.
 - [`idade_por_target.png`](./idade_por_target.png): Gráfico ilustrando a distribuição de idade por status cardíaco.
 - [`matriz_correlacao.png`](./matriz_correlacao.png): Matriz de correlação gerada com Seaborn.
+- [`Relatório Técnico - Heart Attack Analysis.docx`](./Relatório%20Técnico%20-%20Heart%20Attack%20Analysis.docx): Documento acadêmico.
 
 ## 💻 Informação Importate
 * Certifique-se que a branch esteja na `Master`, a `Main` tem apresentado problemas
