@@ -2,7 +2,16 @@
 
 Este projeto foi desenvolvido como parte da obtenção de nota do Curso de Data Science Experience da Universidade Presbiteriana Mackenzie. O objetivo principal é aplicar técnicas de ciência de dados e aprendizado de máquina para prever o risco de insuficiência cardíaca com base em dados clínicos.
 
-## 🎯 Informação Importate
+## 📁 Conteúdo do Repositório
+
+- [`Insuficiência Cardiaca.pbix`](./Insuficiência%20Cardiaca.pbix): Dashboard do Power BI com visualizações interativas.
+- [`README.md`](./README.md): Descrição geral do projeto e instruções de uso.
+- [`analise_cardiacos_final.py`](./analise_cardiacos_final.py): Script Python com o pipeline completo de análise e modelagem.
+- [`heart.csv`](./heart.csv): Base de dados utilizada para análise e modelagem.
+- [`idade_por_target.png`](./idade_por_target.png): Gráfico ilustrando a distribuição de idade por status cardíaco.
+- [`matriz_correlacao.png`](./matriz_correlacao.png): Matriz de correlação gerada com Seaborn.
+
+## 💻 Informação Importate
 * Certifique-se que a branch esteja na `Master`
 
 ## 🎯 Objetivos do Projeto
